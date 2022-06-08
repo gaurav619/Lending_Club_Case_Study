@@ -33,3 +33,5 @@ We need to work on finding the pattern and ways from data how to find pattern fo
     Univariant, bivariant, multi variant, segment analysis
 3- Draw Conclusion
     Get to final conclusion on how we can avoid onboarding the customers who are suspected to be defaulters based on our analysis.
+    
+    
